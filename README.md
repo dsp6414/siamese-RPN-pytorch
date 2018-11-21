@@ -6,9 +6,12 @@
 - Code_v1.0 is available for traning, you should change your dataset as **vot2013 format**.
 
 ## Performance
-<div align=center><img width="700" height="360" src="https://github.com/songdejia/siamese-RPN-pytorch/blob/master/screenshot/test.gif"/></div>
+<div align=center><img width="500" height="500" src="https://github.com/songdejia/siamese-RPN-pytorch/blob/master/screenshot/test.gif"/></div>
+
+
 ## Getting Started
----------------------------------------------------------------------------------------------------------------
+
+
 ### Network introduction  
 <div align=center><img width="700" height="360" src="https://github.com/songdejia/siamese-RPN/blob/master/screenshot/network.png"/></div>
 
