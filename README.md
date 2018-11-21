@@ -5,7 +5,7 @@
 - Another version [**zkisthebest/Siamese-RPN**](https://github.com/zkisthebest/Siamese-RPN) have **lots of bugs**, so I have to re-implement it. 
 - Code_v1.0 is available for traning, you should change your dataset as **vot2013 format**.
 
-### Getting Started
+## Getting Started
 
 ### Network introduction  
 <div align=center><img width="700" height="360" src="https://github.com/songdejia/siamese-RPN/blob/master/screenshot/network.png"/></div>
