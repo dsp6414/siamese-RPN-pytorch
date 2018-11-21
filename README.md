@@ -6,7 +6,8 @@ This is a re-implementation for [High Performance Visual Tracking with Siamese R
 Please cite [paper](https://arxiv.org/abs/1704.03155v2) if you find this useful. 
 
 ## Note:
-**Former work [zkisthebest](https://github.com/zkisthebest/Siamese-RPN) cant backward properly**, so some modification has been done. 
+Former work **[zkisthebest](https://github.com/zkisthebest/Siamese-RPN) can not backward properly**, so some modification has been done. 
+
 Code_v1.0 is available for traning, **you should change your dataset as vot2013 format**.
 
 ## Getting Started
