@@ -47,10 +47,8 @@
 
 **bbox in detection** 
 
-- green -- ground truth which is got by pos anchor shift with reg_target
-
-- red   -- bbox which is got by pos anchor with reg_pred
-
+- green -- ground truth which is got by pos anchor shift with reg_target  
+- red   -- bbox which is got by pos anchor with reg_pred  
 - black -- bbox with highest score
 
 <div align=center><img width="400" height="400" src="https://github.com/songdejia/siamese-RPN/blob/master/screenshot/bbox_in_detection.jpg"/></div>
